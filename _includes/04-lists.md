@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+List of favorite things:
+* github
+* coding
+* learning
+* Mountain Dew
